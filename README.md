@@ -5,6 +5,6 @@ cd myproject_demo
 cd Desktop/myproject_demo
 echo "This is my GSoC demo project!" > hello.txt
 This is my GSoC demo project!
-
-
+git add hello.txt
+git commit -m "Add hello.txt demo file"
 
