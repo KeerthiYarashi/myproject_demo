@@ -2,5 +2,6 @@
 A demo project repository for GSoC preparation
 git clone https://github.com/keerthi/myproject_demo.git
 cd myproject_demo
+cd Desktop/myproject_demo
 echo "This is my GSoC demo project!" > hello.txt
 
